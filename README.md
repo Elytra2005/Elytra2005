@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Virginia</h3>
 
-- 🔭 I’m currently working on **Notes Ninja**
+- 🔭 I’m currently working on **Library Managemet System Pro**
 
 - 📝 I regularly write articles on Programming and Tech [https://medium.com/@mahmoudelhajj005](https://medium.com/@mahmoudelhajj005)
 
