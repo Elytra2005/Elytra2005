@@ -11,7 +11,10 @@
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/mmoe2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmoe2005" height="30" width="40" /></a>
+<a href="https://instagram.com/mmoe2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmoe2005" height="30" width="40" /></a> <a href="https://www.tiktok.com/@codewithmoe" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="codewithmoe" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages Im Working With </h3>
