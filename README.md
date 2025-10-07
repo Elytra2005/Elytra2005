@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Library Management System Pro**
 
-- 🧠 I’m currently improving my skills on **Data sturctures & Algorithims**
+- 🧠 I’m currently improving my skills on **Data sturctures & Algorithims and react js**
 
 - 📝 I regularly write articles on Programming and Tech [https://medium.com/@mahmoudelhajj005](https://medium.com/@mahmoudelhajj005)
 
