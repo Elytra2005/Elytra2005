@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Virginia</h3>
 
-- 🔭 I’m currently working on **Library Management System Pro**
+- 🔭 I’m currently working on **My internship search**
 
 - 🧠 I’m currently improving my skills on **Data sturctures & Algorithims and react js**
 
 - 📝 I regularly write articles on Programming and Tech [https://medium.com/@mahmoudelhajj005](https://medium.com/@mahmoudelhajj005)
 
-- 💬 Ask me about **react, javascript, python**
+- 💬 Ask me about **react, javascript, python, web development**
 
 - 📫 How to reach me **mahmoudelhajj005@gmail.com**
 
