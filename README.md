@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on **My internship search & Booking system web application**
 
 - 🧠 I’m currently improving my skills on **Data sturctures & Algorithims and react js**
+  
+- 🛣️ I’m working towards becoming a **full stack web application developer**
 
 - 📝 I regularly write articles on Programming and Tech [https://medium.com/@mahmoudelhajj005](https://medium.com/@mahmoudelhajj005)
 
