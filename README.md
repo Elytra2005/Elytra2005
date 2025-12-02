@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My internship search & Booking system web application**
 
-- 🧠 I’m currently improving my skills on **Data sturctures & Algorithims and react js**
+- 🧠 I’m currently improving my skills on **NodeJs (backend) and React js (frontend)**
   
 - 🛣️ I’m working towards becoming a **full stack web application developer**
 
