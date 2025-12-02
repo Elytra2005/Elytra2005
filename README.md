@@ -5,7 +5,7 @@
 
 - 🧠 I’m currently improving my skills on **NodeJs (backend) and React js (frontend)**
   
-- 🛣️ I’m working towards becoming a **full stack web application developer**
+- 🛣️ I’m working towards becoming a **full stack software engineer**
 
 - 📝 I regularly write articles on Programming and Tech [https://medium.com/@mahmoudelhajj005](https://medium.com/@mahmoudelhajj005)
 
