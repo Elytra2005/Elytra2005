@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on Programming and Tech [https://medium.com/@mahmoudelhajj005](https://medium.com/@mahmoudelhajj005)
 
-- 💬 Ask me about **react, javascript, python, web development**
+- 💬 Ask me about **react, javascript, python, web development, and some C**
 
 - 📫 How to reach me **mahmoudelhajj005@gmail.com**
 
