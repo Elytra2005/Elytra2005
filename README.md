@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Virginia</h3>
 
-- 🔭 I’m currently working on **My internship search & storsybai (mystartup)**
+- 🔭 I’m currently working on **My internship search & storysubai (mystartup)**
 
 - 🧠 I’m currently improving my skills on **NodeJs (backend) and React js (frontend)**
   
